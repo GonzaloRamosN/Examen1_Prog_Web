@@ -1,0 +1,30 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+#prin2{
+    background-color: white;
+    font-style:  Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#prin3{
+    
+    font-style:  Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding: 0;
+
+}
+
+#prin4{
+    background-color: white;
+    font-style:  Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif;
+    
+}
+
+#prin5{
+    background-color:#F2F2F2;
+    font-style:  Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+p{
+    font-style:  Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
